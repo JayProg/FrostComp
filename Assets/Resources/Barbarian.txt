@@ -1,0 +1,1 @@
+{"Name":"Barbarian","SoldierType":"Barbarian","Notes":"Two Handed Weapon","CurHealth":0,"XP":0,"Stats":[{"Name":"Move","Value":6},{"Name":"Fight","Value":4},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":10},{"Name":"Will","Value":3},{"Name":"Health","Value":14}]}

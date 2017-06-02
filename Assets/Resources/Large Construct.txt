@@ -1,0 +1,1 @@
+{"Name":"Large Construct","SoldierType":"Construct","Notes":"Large","CurHealth":14,"XP":0,"Stats":[{"Name":"Move","Value":4},{"Name":"Fight","Value":3},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":13},{"Name":"Will","Value":0},{"Name":"Health","Value":14}]}

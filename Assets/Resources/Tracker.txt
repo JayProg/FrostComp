@@ -1,0 +1,1 @@
+{"Name":"Tracker","SoldierType":"Tracker","Notes":"Staff, Bow, Leather Armour","CurHealth":0,"XP":0,"Stats":[{"Name":"Move","Value":7},{"Name":"Fight","Value":2},{"Name":"Shoot","Value":2},{"Name":"Armor","Value":11},{"Name":"Will","Value":1},{"Name":"Health","Value":12}]}

@@ -1,0 +1,1 @@
+{"Name":"Wizard","SoldierType":"Wizard","CurHealth":0,"XP":0,"Stats":[{"Name":"Move","Value":6},{"Name":"Fight","Value":2},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":10},{"Name":"Will","Value":4},{"Name":"Health","Value":14}]}

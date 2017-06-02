@@ -1,0 +1,1 @@
+{"Name":"Werewolf ","SoldierType":"Thing,","Notes":"Agile (treat difficult terrain as normal terrain), Bounty (20gc)","CurHealth":12,"XP":0,"Stats":[{"Name":"Move","Value":7},{"Name":"Fight","Value":4},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":11},{"Name":"Will","Value":5},{"Name":"Health","Value":12}]}

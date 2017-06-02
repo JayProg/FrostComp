@@ -1,0 +1,25 @@
+Skeleton M F S A W H Notes 6 +1 +0 10 +0 1 Undead
+Armoured Skeleton M F S A W H Notes 6 +2 +0 12 +0 1 Undead
+Zombie M F S A W H Notes 4 +0 +0 12 +0 6 Undead
+Ghoul M F S A W H Notes 6 +2 +0 10 +2 10 Undead
+Wraith M F S A W H Notes 6 +2 +0 10 +3 6 Undead, Immaterial (can move through terrain), Drain Life Force (all attacks do double damage), Immune to non-magic weapons
+Vampire M F S A W H Notes 7 +4 +0 12 +4 14 Undead, Immune to non-magic weapons
+Bear M F S A W H Notes 6 +4 +0 10 +0 14 Animal, Large
+Boar M F S A W H Notes 6 +2 +0 12 +2 8 Animal
+Giant Rat M F S A W H Notes 6 +0  +0 6 +0 1 Animal, Pack Hunter (if multiple giant rats are encountered, they should activate and move as one)
+Ice Spider M F S A W H Notes  6 +0 +0 8 +0 4 Animal, Venom (treat any human damaged by an ice spider as 'wounded')
+Ice Toad M F S A W H Notes 3 +2 +0 10 +0 5 Animal, Powerful Jaws (ice toad attacks cause triple damage)
+Snow Leopard M F S A W H Notes 8 +2  +0  10  +2 10 Animal
+White Gorilla M F S A W H Notes 6 +4 +0 12 +8 14 Animal
+Wild Dog M F S A W H Notes 8 +0 +0 8 +0 4 Animal, Pack Hunter (if multiple wild dogs are encountered, they should activate and move as one)
+Wolf M F S A W H Notes 8 +1 +0 10 +0 6 Animal
+Small Construct M F S A W H Notes 6 +0 +0 11 +0 10 Construct
+Medium Construct M F S A W H Notes 5 +1 +0 12 +0 12 Construct
+Large Construct M F S A W H Notes 4 +3 +0 13 +0 14 Construct, Large
+Imp M F S A W H Notes 6 +1 +0 10 +4 6 Demon
+Minor Demon M F S A W H Notes 6 +3 +0 11 +4 12 Demon
+Major Demon M F S A W H Notes 6 +4 +0 12 +6 15 Demon, Large (optional)
+Frost Giant M F S A W H Notes 6 +5 +0 15 +4 25 Large, Huge Weapon (treat as if armed with a  two-handed weapon)
+Giant Worm M F S A W H Notes 7 +4 +0 10 +5 20 Animal
+Snow Troll M F S A W H Notes 4 +4 +0 14 +2 16 Large, Huge Weapon (treat as if armed with a  two-handed weapon)
+Werewolf M F S A W H Notes 7 +4 +0 11 +5 12 Thing, Agile (treat difficult terrain as normal terrain), Bounty (20gc)

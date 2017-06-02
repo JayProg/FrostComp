@@ -1,0 +1,1 @@
+{"Name":"Treasure Hunter","SoldierType":"Treasure Hunter","Notes":"Hand Weapon, Dagger, Leather Armour","CurHealth":0,"XP":0,"Stats":[{"Name":"Move","Value":7},{"Name":"Fight","Value":4},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":11},{"Name":"Will","Value":2},{"Name":"Health","Value":12}]}

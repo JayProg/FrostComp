@@ -1,0 +1,1 @@
+{"Name":"Frost Giant ","SoldierType":"Large,","Notes":"Huge Weapon (treat as if armed with a  two-handed weapon)","CurHealth":25,"XP":0,"Stats":[{"Name":"Move","Value":6},{"Name":"Fight","Value":5},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":15},{"Name":"Will","Value":4},{"Name":"Health","Value":25}]}

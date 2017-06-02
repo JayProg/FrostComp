@@ -1,0 +1,1 @@
+{"Name":"Ghoul ","SoldierType":"Undead","Notes":"","CurHealth":10,"XP":0,"Stats":[{"Name":"Move","Value":6},{"Name":"Fight","Value":2},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":10},{"Name":"Will","Value":2},{"Name":"Health","Value":10}]}

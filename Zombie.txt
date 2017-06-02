@@ -1,0 +1,1 @@
+{"Name":"Zombie ","SoldierType":"Undead","Notes":"","CurHealth":6,"XP":0,"Stats":[{"Name":"Move","Value":4},{"Name":"Fight","Value":0},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":12},{"Name":"Will","Value":0},{"Name":"Health","Value":6}]}

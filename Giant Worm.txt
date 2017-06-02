@@ -1,0 +1,1 @@
+{"Name":"Giant Worm ","SoldierType":"Animal","Notes":"","CurHealth":20,"XP":0,"Stats":[{"Name":"Move","Value":7},{"Name":"Fight","Value":4},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":10},{"Name":"Will","Value":5},{"Name":"Health","Value":20}]}

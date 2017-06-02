@@ -1,0 +1,1 @@
+{"Name":"Vampire ","SoldierType":"Undead","Notes":"Immune to non-magic weapons","CurHealth":14,"XP":0,"Stats":[{"Name":"Move","Value":7},{"Name":"Fight","Value":4},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":12},{"Name":"Will","Value":4},{"Name":"Health","Value":14}]}

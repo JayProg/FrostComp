@@ -1,0 +1,1 @@
+{"Name":"Major Demon","SoldierType":"Demon","Notes":"Large (optional)","CurHealth":15,"XP":0,"Stats":[{"Name":"Move","Value":6},{"Name":"Fight","Value":4},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":12},{"Name":"Will","Value":6},{"Name":"Health","Value":15}]}

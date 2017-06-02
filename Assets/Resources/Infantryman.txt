@@ -1,0 +1,1 @@
+{"Name":"Infantryman","SoldierType":"Infantryman","Notes":"Two-Handed Weapon, Leather Armour","CurHealth":0,"XP":0,"Stats":[{"Name":"Move","Value":6},{"Name":"Fight","Value":3},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":11},{"Name":"Will","Value":0},{"Name":"Health","Value":10}]}

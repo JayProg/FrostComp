@@ -1,0 +1,1 @@
+{"Name":"Wraith ","SoldierType":"Undead,","Notes":"Immaterial (can move through terrain), Drain Life Force (all attacks do double damage), Immune to non-magic weapons","CurHealth":6,"XP":0,"Stats":[{"Name":"Move","Value":6},{"Name":"Fight","Value":2},{"Name":"Shoot","Value":0},{"Name":"Armor","Value":10},{"Name":"Will","Value":3},{"Name":"Health","Value":6}]}
